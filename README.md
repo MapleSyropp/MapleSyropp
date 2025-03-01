@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @MapleSyropp
+- 👋 Hi, I’m Maple
 - 👀 I’m interested in cybersecurity and low level development
-- 🌱 I’m currently learning Go, Rust, and SOC related software
+- 🌱 I’m currently learning Go, Java, Angular, and SOC related software
